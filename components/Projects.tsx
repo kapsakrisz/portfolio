@@ -19,11 +19,17 @@ function Projects({}:Props) {
           <div className="relative w-full flex overflow-x-scroll overflow-y-hidden snap-x snap-mandatory z-20">
             {projects.map((project,i)=>(
                 <div className="w-screen flex-shrink-0  snap-center flex flex-col space-y-5 items-center justify-center p-20 md:p-44 h-screen">
+                <a href="https://citizenshare.vercel.app/" target="blank">
+
                 <img 
-                src="https://cdn.sanity.io/images/ltuexkre/production/af7ca99b5a796d0698cf9121a4a0795b5022b6be-666x375.png"
-                 alt="" 
-                 
-                 />
+                
+                src="https://img.redbull.com/images/c_fill,g_auto,w_1230,h_820/q_auto,f_auto/redbullcom/2015/01/06/1331698089409_2/star-citizen"
+                alt="" 
+                
+                />
+                </a>
+
+                
 
                  <div className="space-y-10 px-0 md:px-10 max-w-6xl">
                     <h4 className="text-4xl font-semibold text-center">
@@ -37,7 +43,10 @@ function Projects({}:Props) {
                          can dumy dummy fucki fucki damm dam pam pam
                        </p>
                        </div>
+                       
+                       
                  </div>
+                 
             ))}
             
             </div>  

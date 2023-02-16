@@ -1,6 +1,7 @@
 import React from 'react'
 import {motion} from "framer-motion";
 import Skill from './Skill';
+import Skill2 from './Skill2';
 
 type Props={}
 function Skills({}:Props) {
@@ -19,7 +20,7 @@ function Skills({}:Props) {
 
             <div className="grid grid-cols-4 gap-5">
                <Skill/>
-               <Skill/> 
+               <Skill2/> 
                <Skill/> 
                <Skill/> 
                <Skill/> 
