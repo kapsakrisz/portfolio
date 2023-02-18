@@ -2,6 +2,7 @@ import React from 'react'
 import {motion} from "framer-motion";
 import Skill from './Skill';
 import Skill2 from './Skill2';
+import Skill3 from './Skill3';
 
 type Props={}
 function Skills({}:Props) {
@@ -19,7 +20,7 @@ function Skills({}:Props) {
             <h3 className="absolute top-36 uppercase tracking-[3px] text-gray-500 text-sm">Hover over a skill for currency profi</h3>
 
             <div className="grid grid-cols-4 gap-5">
-               <Skill/>
+               <Skill3/>
                <Skill2/> 
                <Skill/> 
                <Skill/> 
