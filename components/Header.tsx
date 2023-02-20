@@ -58,14 +58,8 @@ scale:0.5
                 }}
                 
                 className="flex flex-row items-center text-gray-300 cursor-pointer">
-                    <SocialIcon
-                    className="cursor-pointer"
-                    network="email"
-                    fgColor="gray"
-                    bgColor="transparent"
                     
-                    />
-                    <p className="uppercase hidden md:inline-flex text-gray-400">Get in Touch</p>
+                    <p className="uppercase hidden md:inline-flex text-gray-400"></p>
                 </motion.div>
                 
                 </header>
