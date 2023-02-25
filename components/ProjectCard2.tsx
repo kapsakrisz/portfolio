@@ -6,11 +6,11 @@ function ProjectCard2({}: Props) {
   return <div>
 
 <div className="w-screen flex-shrink-0  snap-center flex flex-col space-y-5 items-center justify-center p-20 md:p-44 h-screen">
-                <a href="https://www.monsterhunter.com/rise-sunbreak/en-us/" target="blank">
+                <a href="https://pcworld.vercel.app/" target="blank">
 
                 <img 
                 
-                src="/rise.jpg"
+                src="/pc2.jpg"
                 alt="" 
                 
                 />
@@ -27,7 +27,7 @@ function ProjectCard2({}: Props) {
                        </h4>
 
                        <p className="text-lg text-center md:text-left">
-                        Citizenshare is an app where u
+                        Pc world  is an app where u
                          can dumy dummy fucki fucki damm dam pam pam
                        </p>
                        </div>
