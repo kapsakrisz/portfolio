@@ -4,6 +4,13 @@ import Skill from './Skill';
 import Skill2 from './Skill2';
 import Skill3 from './Skill3';
 import Skill4 from './Skill4';
+import Skill5 from './Skill5';
+import Skill6 from './Skill6';
+import Skill7 from './Skill7';
+import Skill8 from './Skill8';
+
+
+
 type Props={}
 function Skills({}:Props) {
     return (
@@ -23,14 +30,15 @@ function Skills({}:Props) {
                <Skill3/>
                <Skill2/> 
                <Skill4/> 
-               <Skill/> 
-               <Skill/> 
-               <Skill/> 
-               <Skill/> 
-               <Skill/> 
-               <Skill/> 
-               <Skill/> 
-               <Skill/>  
+               <Skill5/> 
+               <Skill6/> 
+               <Skill7/> 
+               <Skill8/> 
+               
+               
+               
+               
+               
             </div>
         </motion.div>
     )

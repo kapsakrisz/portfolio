@@ -21,14 +21,14 @@ function ProjectCard1({}: Props) {
 
                  <div className="space-y-10 px-0 md:px-10 max-w-6xl">
                     <h4 className="text-4xl font-semibold text-center">
-                       <span className="">Case study: 
+                       <span className="">Case study 01: 
                        </span>{""}
                         citizenshare
                        </h4>
 
                        <p className="text-lg text-center md:text-left">
-                        Citizenshare is an app where u
-                         can dumy dummy fucki fucki damm dam pam pam
+                        Citizenshare is an image sharing app for the game Star Citizen
+                         
                        </p>
                        </div>
 
