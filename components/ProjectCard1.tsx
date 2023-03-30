@@ -32,7 +32,7 @@ function ProjectCard1({}: Props) {
                         Citizenshare is an image sharing app for the game Star Citizen
                          
                        </p>
-                       <span className=" absolute top-24 tracking-[10px] text-gray-500 text-1xl">Swipe or use The Arrow keys</span>
+                       <span className=" absolute top-24 tracking-[10px] text-gray-500 text-1xl">Swipe ◄►</span>
                        </div>
 
 </div>

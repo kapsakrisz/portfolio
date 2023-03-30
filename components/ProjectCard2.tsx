@@ -32,7 +32,7 @@ function ProjectCard2({}: Props) {
                         eCommerce site for pc components
                          
                        </p>
-                       <span className=" absolute top-24 tracking-[10px] text-gray-500 text-1xl">Swipe or use The Arrow keys</span>
+                       <span className=" absolute top-24 tracking-[10px] text-gray-500 text-1xl">Swipe ◄►</span>
                        </div>
 
 </div>
