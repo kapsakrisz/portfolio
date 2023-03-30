@@ -10,8 +10,10 @@ function ProjectCard1({}: Props) {
 
                 <img 
                 
-                src="https://img.redbull.com/images/c_fill,g_auto,w_400,h_400/q_auto,f_auto/redbullcom/2015/01/06/1331698089409_2/star-citizen"
+                src="/starc3.jpg"
                 alt="" 
+                height={400}
+                width={400}
                 
                 />
                 </a>
@@ -21,7 +23,7 @@ function ProjectCard1({}: Props) {
 
                  <div className="space-y-10 px-0 md:px-10 max-w-6xl">
                     <h4 className="text-4xl font-semibold text-center">
-                       <span className="">Case study 01: 
+                       <span className="">Case study_01_ 
                        </span>{""}
                         citizenshare
                        </h4>
@@ -30,6 +32,7 @@ function ProjectCard1({}: Props) {
                         Citizenshare is an image sharing app for the game Star Citizen
                          
                        </p>
+                       <span className=" absolute top-24 tracking-[10px] text-gray-500 text-1xl">Swipe or use The Arrow keys</span>
                        </div>
 
 </div>

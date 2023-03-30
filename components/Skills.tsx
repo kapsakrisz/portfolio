@@ -32,7 +32,7 @@ function Skills({}:Props) {
                <Skill4/> 
                <Skill5/> 
                <Skill6/> 
-               <Skill7/> 
+                <Skill7/>
                <Skill8/> 
                
                
