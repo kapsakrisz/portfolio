@@ -34,7 +34,7 @@ function ContactMe({}:Props) {
                     <div className="space-y-10">
                         <div className="flex items-center space-x-5 justify-center">
                     <PhoneIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse"/>
-                    <p className="text-2xl">1234567890</p>
+                    <p className="text-2xl">+447480370685</p>
                         </div>
 
                         <div className="flex items-center space-x-5 justify-center">
@@ -42,15 +42,12 @@ function ContactMe({}:Props) {
                     <p className="text-2xl">devkapsakrisz@gmail.com</p>
                         </div>
 
-                        <div className="flex items-center space-x-5 justify-center">
-                    <MapPinIcon className="text-[#F7AB0A] h-7 w-7 animate-pulse"/>
-                    <p className="text-2xl">456 hollow lane</p>
-                        </div>
+                        
                     </div>
                     <form 
                     onSubmit={handleSubmit(onSubmit)}
-                    className="flex flex-col scape-y-2 w-fit mx-auto">
-                        <div className="flex space-x-2">
+                    className="flex flex-col space-y-4 ml-10">
+                        <div className="flex ml-0">
                             <input {...register('name')} placeholder="Name" className="contactInput" type="text"/>
                             <input {...register('email')} placeholder="Email" className="contactInput" type="email"/>
                         </div>
