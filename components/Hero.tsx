@@ -5,7 +5,7 @@ import BackgroundCircles from './BackgroundCircles';
 type Props ={}
 export default function Hero({}:Props) {
      const [text,count]=useTypewriter({
-        words:["hi my name is krisz","aint no fuck around son","love coding"],
+        words:["hi this is <Krisztian>","36 ","Drive a bus for living"],
         loop:true,
         delaySpeed:2000,
 
@@ -14,7 +14,7 @@ export default function Hero({}:Props) {
     return (
         <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden">
             <BackgroundCircles/>
-            <img className="relative rounded-full h-32 w-32 mx-auto object-cover" src="/kk1.jpg" alt=""/>
+            <img className="relative rounded-full h-32 w-32 mx-auto object-cover" src="/kkface.jpg" alt=""/>
 
             <div className="z-20">
                 <h2 className="text-sm uppercase text-gray-500 pb-2 tracking-[15px]">Front End Developer</h2>

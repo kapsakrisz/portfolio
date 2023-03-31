@@ -30,16 +30,15 @@ export default function About({}:Props) {
                 once:true
             }}
 
-            src="/uj.jpg"
+            src="/kkcode2.jpg"
             className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"
             />
 
             <div className="space-y-10 px-0 md:px-10">
 
                 <h4 className="text-4xl font-semibold">Here is a <span>little</span>  background</h4>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero deleniti fugit corporis! Atque, molestiae vitae, 
-                    labore porro nulla velit cupiditate molestias 
-                    veritatis odio omnis debitis dolorem, dicta ex quas et.</p>
+                <p>Hi my  name is Krisztian a  London based self taught Front end developer, love building web applications, Js, React Js, Next js. bring it on all day every day!
+                    </p>
             </div>
             </motion.div>
     )

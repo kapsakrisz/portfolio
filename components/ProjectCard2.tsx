@@ -25,7 +25,7 @@ function ProjectCard2({}: Props) {
                     <h4 className="text-4xl font-semibold text-center">
                        <span className="">Case study_02_   
                        </span>{""}
-                        Pc world
+                        Pcworld
                        </h4>
 
                        <p className="text-lg text-center md:text-left">
