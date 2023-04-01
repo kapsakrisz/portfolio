@@ -2,6 +2,7 @@ import React from 'react';
 import {motion} from "framer-motion";
 import ProjectCard1 from './ProjectCard1';
 import ProjectCard2 from './ProjectCard2';
+import ProjectCard3 from './ProjectCard3';
 
 type Props={}
 
@@ -23,6 +24,7 @@ function Projects({}:Props) {
           
               <ProjectCard1/>  
               <ProjectCard2/>  
+              <ProjectCard3/>  
 
                  
             

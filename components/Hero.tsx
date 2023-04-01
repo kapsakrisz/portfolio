@@ -5,7 +5,7 @@ import BackgroundCircles from './BackgroundCircles';
 type Props ={}
 export default function Hero({}:Props) {
      const [text,count]=useTypewriter({
-        words:["hi this is <Krisztian>","[36]","if","api doesnt fetch","else","iam gonna make it fetch :D"],
+        words:["hi this is <Krisztian>","[36]","if","api doesnt fetch","else","I'm gonna make it fetch :D"],
         loop:true,
         delaySpeed:2000,
 
