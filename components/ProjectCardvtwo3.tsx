@@ -8,7 +8,7 @@ const ProjectCardvtwo3 = () => {
                 src='/next2.jpg' 
                 alt='/'
                 />
-                <div className='hidden group-hover:block absolute top-[30%] left-[30%] translate-x-[50%] translate-y-[50%]'>
+                <div className='hidden group-hover:block absolute top-[10%] left-[70%] translate-x-[50%] translate-y-[50%]'>
 
                 <h3 className='text-2xl text-white tracking-wider text-center'>Netflix</h3>
                 <p className='pb-4 pt-2 text-white text-center '>Next Js</p>
