@@ -4,8 +4,9 @@ import About from '../components/About';
 import ContactMe from '../components/ContactMe';
 import Header from '../components/Header';
 import Hero from '../components/Hero';
-import Projects from '../components/Projects';
+
 import Skills from '../components/Skills';
+import Projectsv2 from '../components/Projectsv2';
 
 
 const Home: NextPage = () => {
@@ -32,7 +33,7 @@ const Home: NextPage = () => {
       </section>
       
       <section id='projects' className="snap-start">
-     <Projects/>
+     <Projectsv2/>
      
       </section>
       <section id='contact' className="snap-start">
