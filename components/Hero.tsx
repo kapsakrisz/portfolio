@@ -14,7 +14,7 @@ export default function Hero({}:Props) {
     return (
         <div className="h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden">
             <BackgroundCircles/>
-            <img className="relative rounded-full h-32 w-32 mx-auto object-cover" src="/kkface.jpg" alt=""/>
+            <img className="relative rounded-full h-32 w-32 mx-auto object-cover" src="/kkaposi4.jpg" alt=""/>
 
             <div className="z-20">
                 <h2 className="text-sm uppercase text-gray-500 pb-2 tracking-[15px]">Front End Developer</h2>
