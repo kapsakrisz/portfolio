@@ -5,7 +5,7 @@ const ProjectCardvtwo = () => {
   return (
     <div className='relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]'>
                 <img className='rounded-xl' 
-                src='/starc3.jpg' 
+                src='/bannerciti.jpg' 
                 alt='/'
                 />
                 <div className='hidden group-hover:block absolute top-[30%] left-[30%] translate-x-[50%] translate-y-[50%]'>

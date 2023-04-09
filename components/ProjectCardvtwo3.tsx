@@ -10,7 +10,7 @@ const ProjectCardvtwo3 = () => {
                 />
                 <div className='hidden group-hover:block absolute top-[10%] left-[70%] translate-x-[50%] translate-y-[50%]'>
 
-                <h3 className='text-2xl text-white tracking-wider text-center'>Netflix</h3>
+                <h3 className='text-2xl text-white tracking-wider text-center'>Netflix COMING SOON</h3>
                 <p className='pb-4 pt-2 text-white text-center '>Next Js</p>
                 <Link href="" target="blank">
                     <p className='text-center py-3 rounded-lg bg-white text-gray-700 font-bold text-lg cursor-pointer'>More info</p>

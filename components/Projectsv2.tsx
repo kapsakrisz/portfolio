@@ -24,8 +24,8 @@ className='w-full'>
         <ProjectCardvtwo2/>
         <ProjectCardvtwo3/> 
            <img className='rounded-full' src='/kklogo.jpg'
-           height={100}
-           width={100}
+           height={75}
+           width={75}
            />
         </div>
     </div>

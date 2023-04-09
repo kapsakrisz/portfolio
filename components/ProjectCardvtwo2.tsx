@@ -8,7 +8,7 @@ const ProjectCardvtwo2 = () => {
                 src='/pcworld2.jpg' 
                 alt='/'
                 />
-                <div className='hidden group-hover:block absolute top-[30%] left-[30%] translate-x-[50%] translate-y-[50%]'>
+                <div className='hidden group-hover:block absolute top-[33%] left-[77%] translate-x-[50%] translate-y-[50%]'>
 
                 <h3 className='text-2xl text-white tracking-wider text-center'>Pc world</h3>
                 <p className='pb-4 pt-2 text-white text-center '>React Js</p>
