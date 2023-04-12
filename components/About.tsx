@@ -37,7 +37,7 @@ export default function About({}:Props) {
             <div className="space-y-10 px-0 md:px-10">
 
                 <h4 className="text-4xl font-semibold">Here is a <span>little</span>  background</h4>
-                <p>Hi my  name is Krisztian a  London based self taught Front end developer, love building web applications, Js, React Js, Next js. Bring it on all day every day!
+                <p>Hi my  name is Krisztian a  London based self taught Front end developer, love building web applications, Js, React Js, Next js. Very much prefer Tailwind css.
                     </p>
             </div>
             </motion.div>

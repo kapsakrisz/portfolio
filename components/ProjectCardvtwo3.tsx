@@ -8,12 +8,12 @@ const ProjectCardvtwo3 = () => {
                 src='/next2.jpg' 
                 alt='/'
                 />
-                <div className='hidden group-hover:block absolute top-[10%] left-[70%] translate-x-[50%] translate-y-[50%]'>
+                <div className='hidden group-hover:block absolute bottom-[50%] right-[60%] translate-x-[50%] translate-y-[50%]'>
 
-                <h3 className='text-2xl text-white tracking-wider text-center'>Netflix COMING SOON</h3>
-                <p className='pb-4 pt-2 text-white text-center '>Next Js</p>
+                <h3 className='text-4xl text-white tracking-wider text-center text-white'>Netflix COMING SOON</h3>
+                <p className='text-2xl pb-4 pt-2 text-white text-center text-white'>Next Js</p>
                 <Link href="" target="blank">
-                    <p className='text-center py-3 rounded-lg bg-white text-gray-700 font-bold text-lg cursor-pointer'>More info</p>
+                    <p className='text-center py-3 rounded-lg bg-white text-gray-700 font-bold text-lg cursor-pointer text-black'>More info</p>
                 </Link>
                 </div>
             </div>
