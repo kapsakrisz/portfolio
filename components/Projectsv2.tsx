@@ -4,6 +4,7 @@ import Link from 'next/link';
 import ProjectCardvtwo from './ProjectCardvtwo';
 import ProjectCardvtwo2 from './ProjectCardvtwo2';
 import ProjectCardvtwo3 from './ProjectCardvtwo3';
+import ProjectCardvtwo4 from './ProjectCardvtwo4';
 import {motion} from "framer-motion";
 
 
@@ -22,7 +23,8 @@ className='w-full'>
 
         <ProjectCardvtwo />
         <ProjectCardvtwo2/>
-        <ProjectCardvtwo3/> 
+        <ProjectCardvtwo3/>
+        <ProjectCardvtwo4/>  
            <img className='rounded-full' src='/kklogo.jpg'
            height={75}
            width={75}
