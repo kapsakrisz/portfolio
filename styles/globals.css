@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.darken-image {
+    filter: brightness(100%);
+    transition: filter 0.3s ease;
+  }
+  
+  .darken-image:hover {
+    filter: brightness(40%); /* Adjust the value to your desired darkness level */
+  }
+  
+
 
 @layer components {
     .heroButton {
