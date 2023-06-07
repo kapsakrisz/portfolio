@@ -8,7 +8,7 @@
   }
   
   .darken-image:hover {
-    filter: brightness(40%); /* Adjust the value to your desired darkness level */
+    filter: brightness(30%); /* Adjust the value to your desired darkness level */
   }
   
 
