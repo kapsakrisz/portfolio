@@ -8,7 +8,7 @@ import Skill5 from './Skill5';
 import Skill6 from './Skill6';
 import Skill7 from './Skill7';
 import Skill8 from './Skill8';
-
+import Skill9 from './Skill9';
 
 
 type Props={}
@@ -34,6 +34,7 @@ function Skills({}:Props) {
                <Skill6/> 
                 <Skill7/>
                <Skill8/> 
+               <Skill9/>
                
                
                
