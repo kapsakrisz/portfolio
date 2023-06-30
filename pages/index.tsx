@@ -7,10 +7,7 @@ import Hero from '../components/Hero';
 
 import Skills from '../components/Skills';
 import Projectsv2 from '../components/Projectsv2';
-
-
-
-const analytics = require('@vercel/analytics');
+import analytics from '@vercel/analytics';
 
 
 
