@@ -9,6 +9,12 @@ import Skills from '../components/Skills';
 import Projectsv2 from '../components/Projectsv2';
 
 
+
+const analytics = require('@vercel/analytics');
+
+
+
+
 const Home: NextPage = () => {
   return (
     <div className="bg-[rgb(36,36,36)] text-white h-screen snap-y snap-mandatory overflow-scroll z-0">
