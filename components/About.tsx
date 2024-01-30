@@ -38,6 +38,7 @@ export default function About({}:Props) {
 
                 <h4 className="text-4xl font-semibold">Here is a <span>little</span>  background</h4>
                 <p>Hi my  name is Krisztian a  Belfast based self taught Front end developer, love building web applications, Js, React Js, Next js. Very much prefer Tailwind css.
+                however, I have used back-end technologies such as MongoDB, Nodejs, and Firebase,  still would not call myself a full-stack developer :)  For more info please click on the YouTube icon above
                     </p>
             </div>
             </motion.div>

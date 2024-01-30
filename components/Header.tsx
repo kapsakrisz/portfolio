@@ -30,10 +30,17 @@ scale:0.5
                 bgColor="transparent"
                 />
 
+                <SocialIcon url="https://www.youtube.com/channel/UCvxBsvCzRpHGbY2ldnAN2cQ"
+                fgColor="gray"
+                bgColor="transparent"
+                />
+                
                 <SocialIcon url="https://twitter.com/devkapsakrisz"
                 fgColor="gray"
                 bgColor="transparent"
                 />
+
+
 
                 <SocialIcon url="https://github.com/kapsakrisz"
                 fgColor="gray"
@@ -45,6 +52,8 @@ scale:0.5
                 bgColor="transparent"
                 />
                 </motion.div>
+
+                
                 
 
                 <motion.div
